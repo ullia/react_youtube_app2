@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hzDY9kTYFhvuD0OlJWKiZo_zo2A",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m1GIFWDFBY07nsse3J5I6GoCTVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9iN9_QmoRwo"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T11:00:12Z",
+        "channelId": "UCTlzx8PsEtsgl3qGC0bMWLw",
+        "title": "BTS Being So Selfless And Caring Towards Each Other",
+        "description": "BTS Being So Selfless And Caring Towards Each Other Copyright disclaimer: I do NOT own this video. All rights belong to it's rightful owner/owner's.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9iN9_QmoRwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9iN9_QmoRwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9iN9_QmoRwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KPOP VGK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-07T11:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YSa8Q7XPEA6WctoAz7DuGoWjvH4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CuklIb9d3fI"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-09T03:59:12Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) -SEOUL credits: 1st AD: Jihye Yoon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-09T03:59:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "izQqoSpnmaG-mp7kghSF2kYeq_M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y0DTahrHsLU"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T22:30:07Z",
+        "channelId": "UC24_Z2L-8Ki183AI9zJJzNQ",
+        "title": "Pembagian Warisan Dibatalkan Ari Wibowo!  | BTS (07/11/21) Part 5",
+        "description": "Live Streaming : https://v7.video/livestreaming/TRANS7-Live-Streaming ##### BTS (BERCANDA TAPI SANTAI) Minggu, 7 November 2021 PART 1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y0DTahrHsLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y0DTahrHsLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y0DTahrHsLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TRANS7 OFFICIAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-07T22:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cMkpwIpMv1H8cQmBvQTOTBdu1N4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3YqPKLZF_WU"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-30T04:00:11Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay X BTS - My Universe (Official Video)",
+        "description": "Coldplay X BTS - My Universe - The new single, taken from the album Music Of The Spheres, out now (https://coldplay.lnk.to/MOTS). Stream/Download here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3YqPKLZF_WU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3YqPKLZF_WU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-30T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X3kO7igkbj5SEhN6blkhL0PvD1M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Njh7JuOZ04"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T04:10:50Z",
+        "channelId": "UCo0_2aL9R9DxivgHuVZ2omQ",
+        "title": "LIVESTREAM | Analizando WINGS de BTS !!!!!!",
+        "description": "https://www.instagram.com/tiangarciamusic/ https://www.facebook.com/TianGarciaMusic https://www.tiktok.com/@tiangarciamusic.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Njh7JuOZ04/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Njh7JuOZ04/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Njh7JuOZ04/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tian Garcia",
+        "liveBroadcastContent": "live",
+        "publishTime": "2021-11-07T04:10:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jV_y6Gs7QN5nbKbyyMzC7LhXhI0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-6ITVw886k8"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-08T02:27:59Z",
+        "channelId": "UC093kTJdVRhwP30sMZYnoqg",
+        "title": "BTS JIN -  &#39;Yours&#39; MV (Official) (Jirisan OST Part 4) REACTION",
+        "description": "REACTIONS on Patreon!! https://www.patreon.com/dtparker Bon Voyage In the Soop Season 1 and 2 Run BTS Burn the Stage Bring the Soul Break the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-6ITVw886k8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-6ITVw886k8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-6ITVw886k8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DT Parker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-08T02:27:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gB1BjJ1O-sYU_2uOXDNFmUVN3Lw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pBuZEGYXA6E"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-24T09:00:03Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;IDOL&#39; Official MV",
+        "description": "BTS (방탄소년단) 'IDOL' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : Guzza, MinJe Jeong, HyeJeong Park (Lumpens) Director of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-24T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XkkFEMOiTvZsFDMCYwBFxSyHNWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RRhjdYsNwAk"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-10T14:58:29Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[2021 FESTA] BTS (방탄소년단) BTS ROOM LIVE #2021BTSFESTA",
+        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt http://www.facebook.com/bangtan.official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RRhjdYsNwAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RRhjdYsNwAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RRhjdYsNwAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-10T14:58:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4V8GViTtqYM3WC4iSUuW7jXcpDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gdZLi9oWNZg"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-21T03:58:10Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) Director of Photography: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-21T03:58:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1QzbRSfwEAGVFEThJeLGAe_1fhg",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-17T03:20:38Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BANGTANTV",
+        "description": "방탄소년단 공식 유튜브 채널 입니다. This is the Official YouTube channel for BTS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-17T03:20:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OFMaaFAT66lPTqIuuNnq4zxn1Ko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "keeVyIcaxBc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T14:27:24Z",
+        "channelId": "UCVB1UbQAs4OU4higctbIPRg",
+        "title": "BTS지민이 할리우드에서 주목받는 이유",
+        "description": "BTS지민이 할리우드에서 주목받는 이유 #BTS #방탄소년단 #해외반응 #퍼미션투댄스 #PTD #방탄소년단 #BTS #butter #kpop #리액션 #외국인반응 #dynamite ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/keeVyIcaxBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/keeVyIcaxBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/keeVyIcaxBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "K- issue 케이 이슈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-07T14:27:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l1M1_2KJKFuLfhmOEI0NJ7ALmFY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WMweEpGlu_U"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-21T03:46:13Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Butter&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Butter' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: Jihye Yoon (Lumpens) 2nd AD: Ran Ro (Lumpens) PA: Soeyoung ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-21T03:46:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ri65xi5idak6q9razV47XpNxmSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bZYPI4mYwhw"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-24T04:00:10Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay X BTS - My Universe (Official Lyric Video)",
+        "description": "The new single, taken from the album Music Of The Spheres, out now (https://coldplay.lnk.to/MOTS). Stream/Download here: https://coldplay.lnk.to/MyUniverse ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bZYPI4mYwhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bZYPI4mYwhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZYPI4mYwhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-24T04:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lo_ntwr0oFkZqiBGZAI_fgoegXU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SCZL83na8nE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T07:15:19Z",
+        "channelId": "UCzWT3oqj7KCqStMnwQS1qng",
+        "title": "[실시간 현장] 미국 최대 규모의 도시 보스턴 시장 연설 현장에 갑자기 나타난 BTS 방탄소년단 다이너마이트 노래 떼창 BTS LA Concert Kpop Performance",
+        "description": "미국 최대 규모를 자랑하는 보스턴을 대표하는 시장을 뽑는 자리에 울려퍼진 방탄소년단 노래가 화제입니다. 미국 보스턴에 자랑스러운 BTS 다이너마이트 노래가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SCZL83na8nE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SCZL83na8nE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SCZL83na8nE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "케이튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-07T07:15:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XzsSdf_N5e8YaUgNpyAPXKau8KQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IkeZX2hnoOk"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-09T03:00:05Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) &#39;Butter (feat. Megan Thee Stallion)&#39; Special Performance Video",
+        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt http://www.facebook.com/bangtan.official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IkeZX2hnoOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IkeZX2hnoOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IkeZX2hnoOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-09T03:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MA5ig5hdobEF5Jm6R42Z3MZyL4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T7lhGz6Bfik"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-24T03:30:04Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) &#39;Butter&#39; @ Billboard Music Awards",
+        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt http://www.facebook.com/bangtan.official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T7lhGz6Bfik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T7lhGz6Bfik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T7lhGz6Bfik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-24T03:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ygy0tIFCl8Xw8vR7rye-M5JH6UU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XsX3ATc3FbA"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-12T09:00:02Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
+        "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) Assistant Director : Guzza, Jihye ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-12T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c9sgk1Fxs_pcpQEbYeNQb2V3_CI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9SmQOZWNyWE"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-20T12:46:08Z",
+        "channelId": "UC5O114-PQNYkurlTg6hekZw",
+        "title": "BTS - &quot;Permission to Dance&quot; performed at the United Nations General Assembly | SDGs | Official Video",
+        "description": "K-Pop sensations BTS perform their hit song Permission to Dance in a video produced at the United Nations. The video accompanies the bands remarks at the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9SmQOZWNyWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9SmQOZWNyWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9SmQOZWNyWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "United Nations",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-20T12:46:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FMASUi3OE7b_lfJfrpRDMlyN_dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LdzFuFuLYws"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T19:37:33Z",
+        "channelId": "UCiCfmxOTZ5sMQQxHUD5xFog",
+        "title": "ТЭХЁН О СВОИХ ВКУСАХ, HYBE (BTS) ЛГБТ, ФЕЙК-СКАНДАЛ, ШОУ КИМ ЧОНГУКА // Mag Stories",
+        "description": "ТЭХЁН О СВОИХ ВКУСАХ, HYBE (BTS) ЛГБТ, ФЕЙК-СКАНДАЛ, ШОУ КИМ ЧОНГУКА Корейские знаменитости, актеры! Скандал в Южной Корее.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LdzFuFuLYws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LdzFuFuLYws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LdzFuFuLYws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MAG Stories",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-07T19:37:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6sTQOt7CrXopJj4SIZBbXZX57-0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hkpIivjL1B4"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T10:30:11Z",
+        "channelId": "UCeGX9XxEuZgZzbNVNi6VyWw",
+        "title": "BTS Are Still Babies",
+        "description": "BTS Are Still Babies https://youtu.be/hkpIivjL1B4 Copyright disclaimer: I do NOT own this video. All rights belong to it's rightful owner/owner's. No copyright ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hkpIivjL1B4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hkpIivjL1B4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hkpIivjL1B4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ONLY LUV BANGTAN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-07T10:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oHxdUDk1xGKn675m09lrD2rghJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rpw1RedAqJU"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T16:15:03Z",
+        "channelId": "UC-eYhSzX9p5iW9FQJUwnNTw",
+        "title": "BTS tiktoks #11",
+        "description": "BTS tiktoks #11 #bts #trusfratedarmy #btstiktok #btstiktokcompilation #jungkook #jimin #taehyung #jin #namjoon #jhope #suga.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rpw1RedAqJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rpw1RedAqJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rpw1RedAqJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trusfrated Army",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-07T16:15:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GVnYs6H_TmUHRNne86cfvfJBF7I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DyjfdKnInUQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-25T07:25:36Z",
+        "channelId": "UCHzW_7Mf8G0JxP4b0LoAd7A",
+        "title": "[Full ver.] BTS PERMISSION TO DANCE ON STAGE 방탄소년단 온라인 콘서트 하이라이트 풀버전 [통통컬처]",
+        "description": "BTS #방탄소년단 #PERMISSIONTODANCE 10월 24일 방탄소년단이 잠실 올림픽 주경기장에서 온라인 콘서트 'PERMISSION TO DANCE ON STAGE'를 개최했다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DyjfdKnInUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DyjfdKnInUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DyjfdKnInUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "연합뉴스 통통컬처",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-25T07:25:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VSrekLMmdERqsusLzSSKL4ycJHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HrFOvtPy0lQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-08T00:45:00Z",
+        "channelId": "UCU0eCWO-6ucZuCMAYTXwTdw",
+        "title": "BTS Jin &#39;Yours&#39; OST for Jirisan - FIRST TIME REACTION!",
+        "description": "Our WWH blessed us and the Jirisan TV series with his angelic, emotional, powerful, and controlled voice! After watching this, we definitely want to watch and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HrFOvtPy0lQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HrFOvtPy0lQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HrFOvtPy0lQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mexinese Family",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-08T00:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YbbNV8kMnWE9Na6wLHTH-1UhiOM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3APNtu6gzLQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-28T11:00:01Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[EPISODE] BTS (방탄소년단) @ UNGA | SDG Moment 2021",
+        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt http://www.facebook.com/bangtan.official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3APNtu6gzLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3APNtu6gzLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3APNtu6gzLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-28T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cpis0QX6nnLY8vD78KlOkv8lN9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T3Ed6s9lJbE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-07T20:45:00Z",
+        "channelId": "UCPnyWr2K0yjPsmGV-pO_1vQ",
+        "title": "B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음",
+        "description": "B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음 B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음 B T S ALL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T3Ed6s9lJbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T3Ed6s9lJbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T3Ed6s9lJbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "음악적감정",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-07T20:45:00Z"
+      }
+    }
+  ]
+}
