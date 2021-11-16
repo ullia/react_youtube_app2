@@ -19,10 +19,10 @@ function App() {
       .then((response) => response.json())
       .then((result) => {
         setVideos(result.items);
-        console.log(videos);
+        // console.log(videos);
       })
       .catch((error) => console.log("error", error));
-  }, [videos]);
+  }, []);
 
   return (
     <>
