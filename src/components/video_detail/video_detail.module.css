@@ -1,0 +1,32 @@
+.detail {
+}
+
+.video {
+}
+.videoInfo {
+  margin-top: 20px;
+  padding: 50px 0;
+  border-top: 1px solid #646464;
+  border-bottom: 1px solid #646464;
+}
+.videoInfo > * {
+  color: #fff;
+  padding-bottom: 20px;
+}
+.videoInfo h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.videoInfo h4 {
+  font-size: 1.2rem;
+  text-align: right;
+  padding-bottom: 10px;
+}
+.videoInfo h5 {
+  text-align: right;
+}
+.videoInfo pre,
+p {
+  white-space: pre-wrap;
+  line-height: 24px;
+}

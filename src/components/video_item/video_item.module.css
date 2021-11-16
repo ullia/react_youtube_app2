@@ -3,6 +3,13 @@
   padding: 0.2em;
 }
 
+.container.grid {
+  width: 50%;
+}
+.container.list {
+  width: 100%;
+}
+
 .video {
   overflow: hidden;
   width: 100%;
@@ -21,18 +28,19 @@
 }
 
 .thumbnail {
-  /* width: 40%; */
+  width: 40%;
   height: 100%;
 }
 
 .metadata {
-  margin: 0 1em;
+  width: 60%;
+  padding: 0 1em;
 }
 
 .title,
 .channel {
   margin: 0;
-  font: 600 1rem arial, "NotoSansKR";
+  font: 600 1rem arial, 'NotoSansKR';
   color: #fff;
 }
 
