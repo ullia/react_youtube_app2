@@ -138,3 +138,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
+
+#root {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(34, 34, 34);
+}
